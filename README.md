@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ali Nadir Avan
 - My majority is Electrical & Electronic Engineering
-- 👀 I’m interested in SAP,Swift,Python,Telecommunication 
+- 👀 I’m interested in SAP,Swift,Python,Telecommunication,Amazon AWS 
 - 🌱 I’m currently learning SAP
 - 📫 How to reach me aliavan19@gmail.com
 
