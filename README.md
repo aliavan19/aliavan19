@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aliavan19
+- 👋 Hi, I’m Ali Nadir Avan
 - My majority is Electrical & Electronic Engineering
 - 👀 I’m interested in SAP,Swift,Python,Telecommunication 
 - 🌱 I’m currently learning SAP
