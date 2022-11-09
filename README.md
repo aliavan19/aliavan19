@@ -3,7 +3,7 @@
 - 👀 I’m interested in SAP,Swift,Python,Telecommunication 
 - 🌱 I’m currently learning SAP
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://linkedin.com/in/alinadiravan
+- 📫 How to reach me aliavan19@gmail.com
 
 <!---
 aliavan19/aliavan19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
